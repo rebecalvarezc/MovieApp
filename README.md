@@ -12,5 +12,8 @@ If not, when you clone the repository make sure you delete the file 'movie_datab
 - In the database_queries.py you will find all the SQLite queries made for this project.
 - Finally, in the global_functions.py you will find all the global functions used with a ContextManager and the connexion to the database.
 
+## Note
+In the already existing database, the saved username is: 'rebe123', in case you want to try the options associated with the input of a username.
+
 ## Authors
 [@rebecalvarezc](https://www.linkedin.com/in/rebeca-alvarez-cepeda/)
