@@ -10,7 +10,7 @@ The objective of this app is to store user data and movie data in database that 
 There will be a menu and there's already some data stored in the database file. If you want to work with it, you are welcome to.
 If not, when you clone the repository make sure you delete the file 'movie_database.db'.
 - In the database_queries.py you will find all the SQLite queries made for this project.
-- Finally, in the global_functions.py you will find all the global functions used with a ContextManager and the conexion to the database.
+- Finally, in the global_functions.py you will find all the global functions used with a ContextManager and the connexion to the database.
 
 ## Authors
 [@rebecalvarezc](https://www.linkedin.com/in/rebeca-alvarez-cepeda/)
